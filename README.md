@@ -2,7 +2,7 @@
 Repositório para armazenar códigos desenvolvidos durante a jornada do New Thinkers 2021
 
 
-1) Adicionar os atributos abaixo na classe Cozinha.
+1) Adicionar os atributos abaixo na classe Cozinha. /br
 1.1 -> Hora de Abertura (Obs: Pode ser um tipo int)
 1.2 -> Hora de Fechamento (Obs: Pode ser um tipo int)
 1.3 -> Prato Principal (Obs: Pode ser um tipo string)
