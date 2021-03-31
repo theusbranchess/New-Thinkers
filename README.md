@@ -1,5 +1,5 @@
-# Trainee-Squadra
-Repositório para armazenar códigos desenvolvidos durante a jornada do New Thinkers 2021
+# Cozinha
+Conceito de orientação a objetos utilizando como exemplo uma cozinha de restaurante!
 
 
 1) Adicionar os atributos abaixo na classe Cozinha. <br>
