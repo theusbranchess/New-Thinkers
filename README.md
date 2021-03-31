@@ -2,62 +2,52 @@
 Repositório para armazenar códigos desenvolvidos durante a jornada do New Thinkers 2021
 
 
-1) Adicionar os atributos abaixo na classe Cozinha. <br><br>
-
-    1.1 -> Hora de Abertura (Obs: Pode ser um tipo int)
-
-    1.2 -> Hora de Fechamento (Obs: Pode ser um tipo int)
-
-    1.3 -> Prato Principal (Obs: Pode ser um tipo string)
+1) Adicionar os atributos abaixo na classe Cozinha. <br>
+    1.1 -> Hora de Abertura (Obs: Pode ser um tipo int)<br>
+    1.2 -> Hora de Fechamento (Obs: Pode ser um tipo int)<br>
+    1.3 -> Prato Principal (Obs: Pode ser um tipo string)<br><br><br>
 
 
-
-2) Criar uma nova classe chamada Ingrediente
-
+2) Criar uma nova classe chamada Ingrediente <br><br><br>
 
 
-3) Criar os atributos abaixo na Classe Ingrediente
-
-    3.1 -> Nome (Obs: Pode ser um tipo string)
-
-    3.2 -> Data de Validade (Obs: Pode ser um tipo DateTime)
+3) Criar os atributos abaixo na Classe Ingrediente <br>
+    3.1 -> Nome (Obs: Pode ser um tipo string) <br>
+    3.2 -> Data de Validade (Obs: Pode ser um tipo DateTime) <br><br><br><br>
 
 
 
 
-Desafio
+Desafio <br><br>
 
-4) Adicionar uma lista ou um vetor de ingredientes na classe Cozinha.
-
-
-
-5) Criar uma Classe chamada Funcionario
+4) Adicionar uma lista ou um vetor de ingredientes na classe Cozinha.<br>
 
 
 
-6) Criar os atributos abaixo na classe Funcionario
-
-    6.1 -> Nome (Obs: Pode ser um tipo string)
-
-    6.2 -> Atividade (Obs: Pode ser um tipo string, é para colocarmos se é Cozinheiro, Ajudante, ou outro)
-
-
-7) Criar uma lista ou um vetor de funcionários na classe Cozinha
+5) Criar uma Classe chamada Funcionario <br>
 
 
 
+6) Criar os atributos abaixo na classe Funcionario <br>
 
-Prontinho já criamos nossos moldes né.... :)
+    6.1 -> Nome (Obs: Pode ser um tipo string) <br>
 
-Agora vamos para a nossa classe Main que é a principal e criar os nossos objetos.
+    6.2 -> Atividade (Obs: Pode ser um tipo string, é para colocarmos se é Cozinheiro, Ajudante, ou outro) <br><br><br>
 
-8) Criar 3 tipos de Cozinhas -> Mineira, Chinesa, Italiana.
 
-    8.1) A Cozinha Mineira irá abrir as 14 horas e fechar as 20 horas, sendo que seu prato principal é Feijoada.
+7) Criar uma lista ou um vetor de funcionários na classe Cozinha <br><br><br>
 
-    8.2) A Cozinha Mineira possui 5 Ingredientes. (Feijão, Farinha, Arroz, Carne de Porco, Linguiça), fiquem a vontade para definir a data de validade de cada um.
 
-    8.3) A Cozinha Mineira possui 4 funcionários. (Fiquem a vontade com os nomes e atividades)
+
+
+Prontinho já criamos nossos moldes né.... :)  <br>
+
+Agora vamos para a nossa classe Main que é a principal e criar os nossos objetos. <br><br>
+
+8) Criar 3 tipos de Cozinhas -> Mineira, Chinesa, Italiana. <br>
+    8.1) A Cozinha Mineira irá abrir as 14 horas e fechar as 20 horas, sendo que seu prato principal é Feijoada. <br>
+    8.2) A Cozinha Mineira possui 5 Ingredientes. (Feijão, Farinha, Arroz, Carne de Porco, Linguiça), fiquem a vontade para definir a data de validade de cada um. <br>
+    8.3) A Cozinha Mineira possui 4 funcionários. (Fiquem a vontade com os nomes e atividades) <br><br><br>
 
 
 
